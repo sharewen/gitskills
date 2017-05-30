@@ -1,3 +1,3 @@
 # gitskills
 add a branch dev
-add a branch master
+Creating a new branch is quick and simple.
